@@ -1,7 +1,7 @@
 .card1 { 
     margin: 1rem auto;
     width: 40rem;
-    height: 33.75rem auto
+    height: 33.75rem auto;
     padding: 0.5rem;
     border-radius: 0.5rem;
     box-shadow: 5px 5px 10px 5px #ddd;
@@ -46,6 +46,6 @@ outline: none;
 .clm{
     float:bottom;
     width: 33.33%;
-    
+
 
 }

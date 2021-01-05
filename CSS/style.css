@@ -1,7 +1,7 @@
 .card { 
     margin: 1rem auto;
     width: 40rem;
-    height: 33.75rem;
+    height: 33.75rem auto
     padding: 0.5rem;
     border-radius: 0.5rem;
     box-shadow: 5px 5px 10px 5px #ddd;
@@ -10,7 +10,8 @@
     width: 100%;
     height: 100%;
     background-color: #f6f6f6;
-    text-align: center;
+    text-align: right;
+position: 
 
 }
 .card__informations { 
@@ -40,5 +41,4 @@ outline: none;
     text-decoration: none;
     color: seashell;
     font-size: 1.2rem;
-
 }
